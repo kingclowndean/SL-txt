@@ -1,0 +1,499 @@
+INFO: LLViewerRegion::setSeedCapability: posting to seed https://sim8072.agni.li
+ndenlab.com:12043/cap/bfc657c7-2caf-50b3-be13-9d9e2f1be620
+INFO: LLViewerRegion::setSeedCapability: posting to seed https://sim7337.agni.li
+ndenlab.com:12043/cap/15c8c4a9-f94b-8908-a1af-7fdb84f7129c
+INFO: LLInventoryModel::processBulkUpdateInventory: unpacked item 'Lash Freebie
+Builders Tools' in e67a555c-f9b3-8eb8-9f34-40e224769644
+INFO: LLFontRegistry::createFont: createFont SansSerif size Small style 1
+INFO: LLFontRegistry::createFont: -- matching font exists: SansSerif size Small
+style 1
+INFO: LLAppViewer::idle: Kills on unknown objects: 187
+INFO: LLViewerRegion::setSimulatorFeatures: <llsd>
+    <map>
+    <key>DynamicPathfindingEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshRezEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshUploadEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshXferEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsMaterialsEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsShapeTypes</key>
+        <map>
+        <key>convex</key>
+            <boolean>1</boolean>
+        <key>none</key>
+            <boolean>1</boolean>
+        <key>prim</key>
+            <boolean>1</boolean>
+        </map>
+    </map>
+</llsd>
+
+INFO: `anonymous-namespace'::LLEventPollResponder::LLEventPollResponder: LLEvent
+Poll initialized with sender 216.82.37.139:13000
+INFO: `anonymous-namespace'::LLEventPollResponder::start: LLEventPollResponder::
+start <4> https://sim8072.agni.lindenlab.com:12043/cap/dfabfe1f-99ae-2dad-1429-5
+a21d774d260
+INFO: LLHTTPSender::setSender: LLHTTPSender::setSender 216.82.37.139:13000
+INFO: `anonymous-namespace'::LLEventPollResponder::LLEventPollResponder: LLEvent
+Poll initialized with sender 216.82.45.17:13003
+INFO: `anonymous-namespace'::LLEventPollResponder::start: LLEventPollResponder::
+start <5> https://sim9683.agni.lindenlab.com:12043/cap/85bbb377-701f-380d-8f06-a
+af8f47d7b52
+INFO: LLHTTPSender::setSender: LLHTTPSender::setSender 216.82.45.17:13003
+INFO: `anonymous-namespace'::LLEventPollResponder::LLEventPollResponder: LLEvent
+Poll initialized with sender 216.82.34.85:13002
+INFO: `anonymous-namespace'::LLEventPollResponder::start: LLEventPollResponder::
+start <6> https://sim7337.agni.lindenlab.com:12043/cap/e73ae0ed-3ef6-52ee-bea3-3
+0c506b0d519
+INFO: LLHTTPSender::setSender: LLHTTPSender::setSender 216.82.34.85:13002
+INFO: display_stats: FPS: 5.20
+INFO: LLViewerRegion::setSimulatorFeatures: <llsd>
+    <map>
+    <key>DynamicPathfindingEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshRezEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshUploadEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshXferEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsMaterialsEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsShapeTypes</key>
+        <map>
+        <key>convex</key>
+            <boolean>1</boolean>
+        <key>none</key>
+            <boolean>1</boolean>
+        <key>prim</key>
+            <boolean>1</boolean>
+        </map>
+    </map>
+</llsd>
+
+INFO: LLViewerRegion::setSimulatorFeatures: <llsd>
+    <map>
+    <key>DynamicPathfindingEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshRezEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshUploadEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshXferEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsMaterialsEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsShapeTypes</key>
+        <map>
+        <key>convex</key>
+            <boolean>1</boolean>
+        <key>none</key>
+            <boolean>1</boolean>
+        <key>prim</key>
+            <boolean>1</boolean>
+        </map>
+    </map>
+</llsd>
+
+INFO: LLViewerRegion::setSimulatorFeatures: <llsd>
+    <map>
+    <key>DynamicPathfindingEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshRezEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshUploadEnabled</key>
+        <boolean>1</boolean>
+    <key>MeshXferEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsMaterialsEnabled</key>
+        <boolean>1</boolean>
+    <key>PhysicsShapeTypes</key>
+        <map>
+        <key>convex</key>
+            <boolean>1</boolean>
+        <key>none</key>
+            <boolean>1</boolean>
+        <key>prim</key>
+            <boolean>1</boolean>
+        </map>
+    </map>
+</llsd>
+
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLFloater::openFloater: Opening floater toolbox floater
+INFO: LLAppViewer::idle: Kills on unknown objects: 162
+WARNING: LLView::getChild: Making dummy class LLView named "RenderingCost" in to
+olbox floater
+WARNING: LLView::getChild: Making dummy class LLView named "Permissions:" in Gen
+eral
+WARNING: LLView::getChild: Making dummy class LLUICtrl named "Group Name" in Gen
+eral
+WARNING: LLView::getChild: Making dummy class LLUICtrl named "Cost" in General
+WARNING: LLView::getChild: Making dummy class LLView named "label texture" in Fe
+atures
+WARNING: LLView::getChild: Making dummy class LLView named "textbox autofix" in
+Texture
+WARNING: warnif: Couldn't remove 'C:\Users\King Clown\AppData\Local\SecondLife\i
+nventory_d59e83ac-436b-8eee-f187-d818bd59c8d7.tmp' (errno 2): No such file or di
+rectory
+INFO: LLXfer_File::initializeRequest: Requesting xfer from 216.82.12.95:13001 fo
+r file: C:\Users\King Clown\AppData\Local\SecondLife\inventory_d59e83ac-436b-8ee
+e-f187-d818bd59c8d7.tmp
+WARNING: warnif: Couldn't remove 'C:\Users\King Clown\AppData\Local\SecondLife\i
+nventory_d59e83ac-436b-8eee-f187-d818bd59c8d7.tmp' (errno 2): No such file or di
+rectory
+INFO: LLXfer::processEOF: xfer from 216.82.12.95:13001 complete: C:\Users\King C
+lown\AppData\Local\SecondLife\inventory_d59e83ac-436b-8eee-f187-d818bd59c8d7.tmp
+
+WARNING: warnif: Couldn't remove 'C:\Users\KINGCL~1\AppData\Local\Temp\f5b524df-
+0a97-d775-f17b-1bb6352b11ab.tmp' (errno 2): No such file or directory
+INFO: display_stats: FPS: 4.80
+INFO: LLAppViewer::idle: Kills on unknown objects: 215
+INFO: LLAppViewer::idle: Kills on unknown objects: 241
+INFO: display_stats: FPS: 5.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 243
+INFO: LLAppViewer::idle: Kills on unknown objects: 134
+INFO: display_stats: FPS: 6.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 163
+INFO: LLAppViewer::idle: Kills on unknown objects: 214
+INFO: display_stats: FPS: 6.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLAppViewer::idle: Kills on unknown objects: 242
+INFO: display_stats: FPS: 6.50
+INFO: LLAppViewer::idle: Kills on unknown objects: 133
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: display_stats: FPS: 6.50
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: LLAppViewer::idle: Kills on unknown objects: 242
+INFO: display_stats: FPS: 4.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 241
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 6.00
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: LLAppViewer::idle: Transmitting sessions stats
+INFO: send_stats: Misc Stats: int_1: i109 int_2: i0
+INFO: send_stats: Misc Stats: string_1: '897' string_2: 'Texture Time: 145.14, T
+otal Time: 366.84'
+INFO: LLViewerStats::addToMessage: STAT: Version: 0.0
+INFO: LLViewerStats::addToMessage: STAT: Vertex Buffers Enabled: 0.0
+INFO: LLViewerStats::addToMessage: STAT: AgentPositionSnaps: Mean = 1488.8; StdD
+ev = 0.0; Count = 1
+INFO: ViewerStatsResponder::result: ViewerStatsResponder::result
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: display_stats: FPS: 6.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: LLAppViewer::idle: Kills on unknown objects: 186
+INFO: display_stats: FPS: 5.80
+INFO: LLAppViewer::idle: Kills on unknown objects: 162
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 5.90
+INFO: LLAppViewer::idle: Kills on unknown objects: 133
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: display_stats: FPS: 6.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: display_stats: FPS: 6.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 186
+INFO: LLAppViewer::idle: Kills on unknown objects: 106
+INFO: display_stats: FPS: 6.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLFloater::closeFloater: Closing floater toolbox floater
+INFO: LLAppViewer::idle: Kills on unknown objects: 159
+INFO: display_stats: FPS: 6.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 186
+INFO: LLAppViewer::idle: Kills on unknown objects: 160
+INFO: display_stats: FPS: 6.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: LLInventoryModel::processBulkUpdateInventory: unpacked folder '' (00000000
+-0000-0000-0000-000000000000) in 00000000-0000-0000-0000-000000000000
+INFO: LLInventoryModel::processBulkUpdateInventory: unpacked item 'Lash Freebie
+Builders Tools' in 59744520-98e8-48f8-b733-b88fd7704af3
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: display_stats: FPS: 6.60
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: LLInventoryModel::processBulkUpdateInventory: unpacked item 'Lash Rope v0.
+3' in e67a555c-f9b3-8eb8-9f34-40e224769644
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: display_stats: FPS: 6.70
+INFO: LLFloater::closeFloater: Closing floater floater_my_inventory
+INFO: LLAppViewer::idle: Kills on unknown objects: 213
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 6.40
+INFO: LLAppViewer::idle: Kills on unknown objects: 190
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 7.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: display_stats: FPS: 7.00
+INFO: LLAppViewer::idle: Kills on unknown objects: 162
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: display_stats: FPS: 7.00
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: LLAppViewer::idle: Kills on unknown objects: 216
+INFO: display_stats: FPS: 9.40
+INFO: LLAppViewer::idle: Kills on unknown objects: 109
+INFO: LLFloater::openFloater: Opening floater camera_floater
+INFO: LLAppViewer::idle: Kills on unknown objects: 133
+INFO: display_stats: FPS: 11.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 134
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAdvancedCheckInfoDisplay::handleEvent: check shame
+INFO: LLAppViewer::idle: Kills on unknown objects: 242
+INFO: display_stats: FPS: 11.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 134
+INFO: LLAppViewer::idle: Kills on unknown objects: 160
+INFO: display_stats: FPS: 10.80
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLAppViewer::idle: Kills on unknown objects: 133
+INFO: display_stats: FPS: 11.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 268
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: display_stats: FPS: 10.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 264
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: display_stats: FPS: 11.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLAppViewer::idle: Kills on unknown objects: 132
+INFO: display_stats: FPS: 11.60
+INFO: LLAppViewer::idle: Kills on unknown objects: 106
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 11.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 80
+INFO: display_stats: MEMORY: 77 MB
+INFO: LLMemory::logMemoryInfo: Current allocated physical memory(KB): 79824
+INFO: LLMemory::logMemoryInfo: Current allocated page size (KB): 406376
+INFO: LLMemory::logMemoryInfo: Current availabe physical memory(KB): 337936
+INFO: LLMemory::logMemoryInfo: Current max usable memory(KB): 417760
+INFO: LLMemory::logMemoryInfo: --- private pool information --
+INFO: LLMemory::logMemoryInfo: Total reserved (KB): 65632
+INFO: LLMemory::logMemoryInfo: Total allocated (KB): 28318
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: display_stats: FPS: 11.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 239
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 11.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 160
+INFO: LLAppViewer::idle: Kills on unknown objects: 167
+INFO: display_stats: FPS: 11.60
+INFO: LLAppViewer::idle: Kills on unknown objects: 163
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: display_stats: FPS: 11.60
+INFO: LLAppViewer::idle: Kills on unknown objects: 215
+INFO: LLAppViewer::idle: Kills on unknown objects: 216
+INFO: display_stats: FPS: 6.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 186
+INFO: LLAppViewer::idle: Kills on unknown objects: 268
+INFO: display_stats: FPS: 7.60
+INFO: LLAppViewer::idle: Kills on unknown objects: 215
+INFO: LLAppViewer::idle: Kills on unknown objects: 216
+INFO: display_stats: FPS: 9.40
+INFO: LLAppViewer::idle: Transmitting sessions stats
+INFO: send_stats: Misc Stats: int_1: i60 int_2: i0
+INFO: send_stats: Misc Stats: string_1: '897' string_2: 'Texture Time: 175.50, T
+otal Time: 666.95'
+INFO: LLViewerStats::addToMessage: STAT: Version: 0.0
+INFO: LLViewerStats::addToMessage: STAT: Vertex Buffers Enabled: 0.0
+INFO: LLViewerStats::addToMessage: STAT: AgentPositionSnaps: Mean = 1488.8; StdD
+ev = 0.0; Count = 1
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: ViewerStatsResponder::result: ViewerStatsResponder::result
+WARNING: LLCore::HttpOpRequest::readCallback: Request body position beyond body
+size.  Aborting request.
+INFO: LLAppViewer::idle: Kills on unknown objects: 294
+INFO: display_stats: FPS: 9.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: LLAppViewer::idle: Kills on unknown objects: 160
+INFO: display_stats: FPS: 8.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: LLAppViewer::idle: Kills on unknown objects: 159
+INFO: display_stats: FPS: 8.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 107
+INFO: LLAppViewer::idle: Kills on unknown objects: 134
+INFO: display_stats: FPS: 8.00
+INFO: LLAppViewer::idle: Kills on unknown objects: 133
+INFO: LLAppViewer::idle: Kills on unknown objects: 163
+INFO: display_stats: FPS: 8.30
+INFO: LLAppViewer::idle: Kills on unknown objects: 134
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: display_stats: FPS: 11.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 106
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: display_stats: FPS: 5.80
+INFO: LLFloater::openFloater: Opening floater toolbox floater
+INFO: LLViewerMediaImpl::navigateInternal: media id= a7cf9fe4-7cb8-8d42-9280-d05
+33c5a0389 url=about:blank mime_type=
+INFO: LLViewerMedia::getCurrentUserAgent: SecondLife/3.4.3.268262 (Second Life R
+elease; default skin)
+INFO: LLViewerMediaImpl::loadURI: Asking media source to load URI: about:blank
+WARNING: LLUICtrl::initCommitCallback: No callback found for: 'Media.ResetCurren
+tUrl' in control: current_url_reset_btn
+INFO: LLViewerMediaImpl::navigateInternal: media id= a7cf9fe4-7cb8-8d42-9280-d05
+33c5a0389 url=data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 w
+idth=%22100%%22 height=%22100%%22 %3E%3Cdefs%3E%3Cpattern id=%22checker%22 patte
+rnUnits=%22userSpaceOnUse%22 x=%220%22 y=%220%22 width=%22128%22 height=%22128%2
+2 viewBox=%220 0 128 128%22 %3E%3Crect x=%220%22 y=%220%22 width=%2264%22 height
+=%2264%22 fill=%22#ddddff%22 /%3E%3Crect x=%2264%22 y=%2264%22 width=%2264%22 he
+ight=%2264%22 fill=%22#ddddff%22 /%3E%3C/pattern%3E%3C/defs%3E%3Crect x=%220%22
+y=%220%22 width=%22100%%22 height=%22100%%22 fill=%22url(#checker)%22 /%3E%3C/sv
+g%3E mime_type=
+INFO: LLViewerMediaImpl::loadURI: Asking media source to load URI: data:image/sv
+g+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22100%%22%20heigh
+t=%22100%%22%20%3E%3Cdefs%3E%3Cpattern%20id=%22checker%22%20patternUnits=%22user
+SpaceOnUse%22%20x=%220%22%20y=%220%22%20width=%22128%22%20height=%22128%22%20vie
+wBox=%220%200%20128%20128%22%20%3E%3Crect%20x=%220%22%20y=%220%22%20width=%2264%
+22%20height=%2264%22%20fill=%22#ddddff%22%20/%3E%3Crect%20x=%2264%22%20y=%2264%2
+2%20width=%2264%22%20height=%2264%22%20fill=%22#ddddff%22%20/%3E%3C/pattern%3E%3
+C/defs%3E%3Crect%20x=%220%22%20y=%220%22%20width=%22100%%22%20height=%22100%%22%
+20fill=%22url(#checker)%22%20/%3E%3C/svg%3E
+INFO: LLMediaCtrl::handleVisibilityChange: visibility changed to false
+WARNING: warnif: Couldn't remove 'C:\Users\King Clown\AppData\Local\SecondLife\i
+nventory_6f3916e8-5fdf-fe20-c7f7-588a3b65f0a3.tmp' (errno 2): No such file or di
+rectory
+INFO: LLXfer_File::initializeRequest: Requesting xfer from 216.82.12.95:13001 fo
+r file: C:\Users\King Clown\AppData\Local\SecondLife\inventory_6f3916e8-5fdf-fe2
+0-c7f7-588a3b65f0a3.tmp
+INFO: LLProcess::LLProcess: SLPlugin.exe (3188): launched cd "C:\Program Files\S
+econdLifeViewer\llplugin": "C:\Program Files\SecondLifeViewer\SLPlugin.exe" 5167
+9
+WARNING: warnif: Couldn't remove 'C:\Users\King Clown\AppData\Local\SecondLife\i
+nventory_6f3916e8-5fdf-fe20-c7f7-588a3b65f0a3.tmp' (errno 2): No such file or di
+rectory
+INFO: LLXfer::processEOF: xfer from 216.82.12.95:13001 complete: C:\Users\King C
+lown\AppData\Local\SecondLife\inventory_6f3916e8-5fdf-fe20-c7f7-588a3b65f0a3.tmp
+
+WARNING: warnif: Couldn't remove 'C:\Users\KINGCL~1\AppData\Local\Temp\ae0c271e-
+e44f-0c8b-c5fb-a3d4385b27a0.tmp' (errno 2): No such file or directory
+INFO: LLAppViewer::idle: Kills on unknown objects: 160
+INFO: LLPluginProcessParent::receiveMessage: plugin version string: Webkit media
+ plugin, Webkit version 2.02.55781 (QtWebKit version 4.7.1)
+INFO: LLPluginProcessParent::receiveMessage: message class: base -> version: 1.0
+
+INFO: LLPluginProcessParent::receiveMessage: message class: media -> version: 1.
+0
+INFO: LLPluginProcessParent::receiveMessage: message class: media_browser -> ver
+sion: 1.0
+INFO: LLAppViewer::idle: Kills on unknown objects: 187
+INFO: display_stats: FPS: 5.40
+INFO: LLFloater::openFloater: Opening floater toolbox floater
+WARNING: warnif: Couldn't remove 'C:\Users\King Clown\AppData\Local\SecondLife\i
+nventory_80d807bb-41fd-72fc-acd9-f02b2bd76805.tmp' (errno 2): No such file or di
+rectory
+INFO: LLXfer_File::initializeRequest: Requesting xfer from 216.82.12.95:13001 fo
+r file: C:\Users\King Clown\AppData\Local\SecondLife\inventory_80d807bb-41fd-72f
+c-acd9-f02b2bd76805.tmp
+WARNING: warnif: Couldn't remove 'C:\Users\King Clown\AppData\Local\SecondLife\i
+nventory_80d807bb-41fd-72fc-acd9-f02b2bd76805.tmp' (errno 2): No such file or di
+rectory
+INFO: LLXfer::processEOF: xfer from 216.82.12.95:13001 complete: C:\Users\King C
+lown\AppData\Local\SecondLife\inventory_80d807bb-41fd-72fc-acd9-f02b2bd76805.tmp
+
+WARNING: warnif: Couldn't remove 'C:\Users\KINGCL~1\AppData\Local\Temp\e9464b31-
+8c6f-eea8-7ab1-ee5336b02440.tmp' (errno 2): No such file or directory
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: display_stats: FPS: 7.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: LLAppViewer::idle: Kills on unknown objects: 136
+INFO: display_stats: FPS: 8.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 132
+INFO: display_stats: FPS: 8.20
+INFO: LLAppViewer::idle: Kills on unknown objects: 53
+INFO: display_stats: FPS: 7.70
+INFO: LLAppViewer::idle: Kills on unknown objects: 80
+INFO: LLFloater::openFloater: Opening floater texture picker
+INFO: LLAppViewer::idle: Kills on unknown objects: 107
+INFO: LLViewerInventoryCategory::fetch: FetchInventoryDescendents2 capability no
+t found.  Using deprecated UDP message.
+INFO: display_stats: FPS: 6.80
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+WARNING: `anonymous-namespace'::AssetReportHandler::onCompleted: Successfully de
+livered asset metrics to grid.
+INFO: display_stats: FPS: 5.50
+INFO: LLAppViewer::idle: Kills on unknown objects: 135
+INFO: LLAppViewer::idle: Kills on unknown objects: 188
+INFO: display_stats: FPS: 7.00
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: LLInventoryModelBackgroundFetch::backgroundFetch: Inventory fetch complete
+d
+INFO: LLAppViewer::idle: Kills on unknown objects: 162
+WARNING: LLView::getChild: Making dummy class LLUICtrl named "desc" in floater
+WARNING: LLView::getChild: Making dummy class LLView named "dimensions" in float
+er
+INFO: LLFloater::openFloater: Opening floater preview_texture
+INFO: display_stats: FPS: 6.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 106
+INFO: LLAppViewer::idle: Kills on unknown objects: 1
+INFO: display_stats: FPS: 5.40
+INFO: LLAppViewer::idle: Kills on unknown objects: 27
+INFO: LLAppViewer::idle: Kills on unknown objects: 80
+INFO: display_stats: FPS: 6.10
+INFO: LLAppViewer::idle: Kills on unknown objects: 79
+INFO: LLFloater::openFloater: Opening floater toolbox floater
+INFO: display_stats: FPS: 6.90
+INFO: LLAppViewer::idle: Kills on unknown objects: 213
+INFO: LLAppViewer::idle: Kills on unknown objects: 81
+INFO: LLFloater::closeFloater: Closing floater texture picker
+INFO: display_stats: FPS: 5.80
+INFO: LLAppViewer::idle: Kills on unknown objects: 107
+INFO: LLAppViewer::idle: Kills on unknown objects: 134
+INFO: display_stats: FPS: 5.90
+INFO: LLAppViewer::idle: Kills on unknown objects: 161
+INFO: LLAppViewer::idle: Kills on unknown objects: 267
+INFO: display_stats: FPS: 4.80
+INFO: LLAppViewer::idle: Kills on unknown objects: 80
+INFO: LLAppViewer::idle: Kills on unknown objects: 215
+INFO: display_stats: FPS: 4.60
+INFO: LLAppViewer::idle: Kills on unknown objects: 108
+INFO: FrameWatcher::tick:  slowest framerate for last 600 seconds 4.8
+2013-01-02T03:17:18Z <mem>             Avail Physical KB:       267200
+2013-01-02T03:17:18Z <mem>              Avail Virtual KB:      1322992
+2013-01-02T03:17:18Z <mem>                 Avail page KB:       590120
+2013-01-02T03:17:18Z <mem>                CommitLimit KB:      2332032
+2013-01-02T03:17:18Z <mem>                 CommitPeak KB:      2166284
+2013-01-02T03:17:18Z <mem>                CommitTotal KB:      1741912
+2013-01-02T03:17:18Z <mem>                   HandleCount:        26649
+2013-01-02T03:17:18Z <mem>             KernelNonpaged KB:        84832
+2013-01-02T03:17:18Z <mem>                KernelPaged KB:        67604
+2013-01-02T03:17:18Z <mem>                KernelTotal KB:       152436
+2013-01-02T03:17:18Z <mem>              Page Fault Count:       462993
+2013-01-02T03:17:18Z <mem>                   PageSize KB:            4
+2013-01-02T03:17:18Z <mem>              PagefileUsage KB:       431848
+2013-01-02T03:17:18Z <mem>          PeakPagefileUsage KB:       431848
+2013-01-02T03:17:18Z <mem>         PeakWorkingSetSize KB:       231920
+2013-01-02T03:17:18Z <mem>            Percent Memory use:           74
+2013-01-02T03:17:18Z <mem>              PhysicalAvail KB:       267188
+2013-01-02T03:17:18Z <mem>              PhysicalTotal KB:      1037824
+2013-01-02T03:17:18Z <mem>               PrivateUsage KB:       431848
+2013-01-02T03:17:18Z <mem>                  ProcessCount:           97
+2013-01-02T03:17:18Z <mem>     QuotaNonPagedPoolUsage KB:           97
+2013-01-02T03:17:18Z <mem>        QuotaPagedPoolUsage KB:          293
+2013-01-02T03:17:18Z <mem> QuotaPeakNonPagedPoolUsage KB:         1161
+2013-01-02T03:17:18Z <mem>     QutaPeakPagedPoolUsage KB:          361
+2013-01-02T03:17:18Z <mem>                SystemCache KB:       244812
+2013-01-02T03:17:18Z <mem>                   ThreadCount:         1044
+2013-01-02T03:17:18Z <mem>             Total Physical KB:      1037824
+2013-01-02T03:17:18Z <mem>              Total Virtual KB:      2097024
+2013-01-02T03:17:18Z <mem>                 Total page KB:      2332032
+2013-01-02T03:17:18Z <mem>             WorkingSetSize KB:       138028
+2013-01-02T03:17:18Z <mem>                     timestamp: 2013-01-02T03:17:18.00
+Z
+
+INFO: LLAppViewer::idle: Kills on unknown objects: 133
+INFO: display_stats: FPS: 5.50
+INFO: LLAppViewer::idle: Kills on unknown objects: 292
+INFO: LLAppViewer::idle: Kills on unknown objects: 106
+INFO: display_stats: FPS: 5.00
+INFO: LLAppViewer::idle: Kills on unknown objects: 242
+INFO: LLAppViewer::idle: Kills on unknown objects: 189
+WARNING: LLMessageSystem::sendMessage: ONCE: sendMessage - Trying to send AgentP
+ause on unknown circuit 216.82.46.61:13003
+Check failed: sidestep::SIDESTEP_SUCCESS == PreamblePatcher::Patch(windows_fn_[i
+], perftools_fn_[i], &origstub_fn_[i])
